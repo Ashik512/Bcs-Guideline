@@ -11,7 +11,7 @@ There are two login options
 ## Admin part:
 * Admin will manage all the system like adding model test,subject test,reference book,video lectures and rest of all things.
 
-##User/Student part:
+## User/Student part:
 After successfull Registration user can Login and use our system
 ### key features for Users/students
 * Bcs Syllabus
